@@ -1,0 +1,20 @@
+li:first-child{
+    color:red;
+}
+li:last-child{
+    color: blue;
+}
+
+p:first-child{
+    color: red;
+}
+p:last-child{
+    color:blue;
+}
+
+h2:first-child{
+    color: red;
+}
+h2:last-child{
+    color: blue;
+}
